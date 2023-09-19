@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vibingyeti
+- 👋 Hi, my name is Camille. 
 - I am studying Computer Science
 - I'm currently learning Python, JS, Java
 
