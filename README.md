@@ -1,8 +1,14 @@
-- 👋 Hi, my name is Camille. 
-- I am studying Computer Science at UdeM
-- Most of my projects are in private for confidentiality reasons.
+# Hi, I'm <div>camille</div>! 👋
 
-<!---
-vibingyeti/vibingyeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![divcamillediv's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- 🔭 I'm currently pursuing my Bachelor's in Computer Science at UdeM.
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+
+## 🏆 Achievements
+
+- 🌟 Completed CSGames 2024
