@@ -1,4 +1,4 @@
-# Hi, I'm <div>camille</div>! 👋
+# Hi, I'm \<div>camille</div>! 👋
 
 ![divcamillediv's Stats](https://github-readme-stats.vercel.app/api?username=divcamillediv&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
