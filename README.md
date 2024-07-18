@@ -5,7 +5,7 @@
 - 🔭 I'm currently pursuing my Bachelor's in Computer Science at UdeM.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,python,nodejs,expressjs,mongodb,java,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,python,nodejs,expressjs,mongodb,java,mysql)](https://skillicons.dev)
 
 ## 🏆 Achievements
 
