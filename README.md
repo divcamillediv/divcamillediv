@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor's in Computer Science at UdeM.
+- 🔭 I'm currently pursuing my Bachelor's in Computer Science at the University of Montreal.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,python,nodejs,expressjs,mongodb,java,mysql)](https://skillicons.dev)
