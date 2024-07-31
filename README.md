@@ -5,7 +5,10 @@
 - 🔭 I'm currently pursuing my Bachelor's in Computer Science at the University of Montreal.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,python,nodejs,expressjs,mongodb,java,mysql,postgresql)](https://skillicons.dev)
+### Mern Stack
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,expressjs,mongodb,html,css)](https://skillicons.dev)
+### Other skills
+[![My Skills](https://skillicons.dev/icons?i=pythonjava,mysql,postgresql,c)](https://skillicons.dev)
 
 ## 🏆 Achievements
 
