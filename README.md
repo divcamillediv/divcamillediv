@@ -8,7 +8,7 @@
 ### Mern Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,expressjs,mongodb,html,css)](https://skillicons.dev)
 ### Other skills
-[![My Skills](https://skillicons.dev/icons?i=pythonjava,mysql,postgresql,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,mysql,postgresql,c)](https://skillicons.dev)
 
 ## 🏆 Achievements
 
