@@ -13,4 +13,6 @@
 ## 🏆 Achievements
 
 - 🌟 Completed CSGames 2024
-- 🌟 Participated in Morgan Stanley's Hackathon Code to Give 
+- 🌟 Participated in Morgan Stanley's Hackathon Code to Give
+
+PFP by @laptitecomic on Instagram
