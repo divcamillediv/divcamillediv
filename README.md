@@ -2,7 +2,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor's in Computer Science at the University of Montreal.
+- 🔭 I'm pursuing my Bachelor's in Computer Science at the University of Montreal.
+- Currently going on an exchange at Cal State San Bernardino. 
+- Part of CISO (Cybersecurity Club)
 
 ## Tech Stack
 ### MERN Stack
