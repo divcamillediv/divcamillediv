@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm pursuing my Bachelor's in Computer Science at the University of Montreal.
-- Currently going on an exchange at Cal State San Bernardino. 
-- Part of CISO (Cybersecurity Club)
+- 🔭 Graduated with a Bachelor's in Computer Science at the University of Montreal.
+- 🌎 Went on an exchange at Cal State San Bernardino. 
+
 
 ## Tech Stack
 ### MERN Stack
@@ -16,5 +16,6 @@
 
 - 🌟 Completed CSGames 2024
 - 🌟 Participated in Morgan Stanley's Hackathon Code to Give
+- 🌟 Participated in the ICPC SoCal Regional Contest
 
 PFP by @laptitecomic on Instagram
